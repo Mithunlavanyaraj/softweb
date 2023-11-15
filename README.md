@@ -339,8 +339,9 @@ margin-top: 50px;
 ```
 
 ## OUTPUT:
-![Alt text](<sample/newapp/static/mainpage 1.png>)
-![Alt text](sample/newapp/static/2.png)
-![Alt text](<sample/newapp/static/mainpage 3.png>)
+![image](https://github.com/Mithunlavanyaraj/softweb/assets/120077786/faec67ff-ed17-4795-8541-8985be98b62d)
+![image](https://github.com/Mithunlavanyaraj/softweb/assets/120077786/0abd02c6-3aac-4f44-8648-7440faee75dd)
+![image](https://github.com/Mithunlavanyaraj/softweb/assets/120077786/5d2513db-3db0-4bb9-8fde-6ff7b929b3b5)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
